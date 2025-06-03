@@ -14,6 +14,38 @@ const products = [
       "apparel"
     ]
   },
+
+  {
+    "id": "bacd7705-3d46-409e-93aa-e711e05b6326",
+    "image": "images/products/backpack.jpg",
+    "name": "Black backpack",
+    "rating": {
+      "stars": 4.5,
+      "count": 70
+    },
+    "priceCents": 1598,
+    "keywords": [
+      "backpack",
+      "travel",
+      "luggauge"
+    ]
+  },
+
+   {
+    "id": "a8bb967a-696d-405c-82be-afc2c40649ee",
+    "image": "images/products/umbrella.jpg",
+    "name": "Green long umbrella",
+    "rating": {
+      "stars": 4,
+      "count": 70
+    },
+    "priceCents": 650,
+    "keywords": [
+      "accessories",
+      "travel",
+      "weather"
+    ]
+  },
   {
     id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
     image: "images/products/intermediate-composite-basketball.jpg",
