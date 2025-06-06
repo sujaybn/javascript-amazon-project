@@ -151,7 +151,6 @@ document.querySelectorAll('.js-update-quantity-link')
       const newQuantity = Number(quantityInput.value);
       
       handleUpdateQuantity(productId, newQuantity);
-      });
 
       // if (newQuantity < 0 || newQuantity >= 1000) {
       //   alert('Quantity must be at least 0 and less than 1000');
